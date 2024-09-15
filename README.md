@@ -1,7 +1,16 @@
 # 🦚 **Peacock Rush** 🎮
 março/2023
-Projeto desenvolvimdo em grupo na disciplina de Experiência Criativa PUCPR - 1° período Ciência da Computação
-*Estudantes:* Ayumi Sato, Daniela Yuki, Henrique De Conti, Jorge Jordão, Leticia Garsztka, Maria Fernanda Cordeiro
+
+Projeto desenvolvido em grupo na disciplina de Experiência Criativa PUCPR - 1° período Ciência da Computação
+
+**Estudantes:**  
+Ayumi Sato  
+Daniela Yuki  
+Henrique De Conti  
+Jorge Jordão  
+Leticia Garsztka  
+Maria Fernanda Cordeiro
+
 
 ## 📜 **História**
 
